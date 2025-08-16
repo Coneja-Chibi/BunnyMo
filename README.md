@@ -39,7 +39,10 @@ Characters get comprehensive psychological profiles using standardized tags. As 
 ```
 
 ## 📋 Analysis Command
-- `!fullsheet` - Generates complete psychological analysis and character tags
+- `!fullsheet` - Generates complete psychological analysis and character tags. (Below is what the World Info Info should look like if it's triggered correctly)
+
+<img width="600" height="333" alt="{2B3F211E-9F41-453D-B3C3-0DEA1B33CD68}" src="https://github.com/user-attachments/assets/410a059f-1b22-46b2-bdd8-6b0a70cbe6cb" />
+
 
 ## 🚀 Installation & Setup
 
@@ -80,7 +83,11 @@ If all else fails, in some RARE cases it seems that the AI model (particularly G
 **"Several entries are running when they weren't mentioned!"** 💢
 Check the recent thinking and see if it was mentioned there. 
 Turn off vectorization in the extension settings and see if that helps.
-If all else fails, download this extension: https://github.com/LenAnderson/SillyTavern-WorldInfoInfo, take a picture and send me the triggers. 
+If all else fails, download this extension: https://github.com/LenAnderson/SillyTavern-WorldInfoInfo, take a picture, then send me the triggers AND the full transcript (thinking included) of your last two messages. 
+
+<img width="350" height="350" alt="{8FA2B5C7-349B-400F-8529-B31D4569F256}" src="https://github.com/user-attachments/assets/4a508343-a709-4fdf-9bbb-0339d7db5e63" />
+
+
 
 **"My character's MBTI/Dere were one thing, and then the AI just switched it!"** 😖
 Did you properly put that characters tags into the auto trigger sheets?
