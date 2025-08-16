@@ -71,11 +71,13 @@ This lorebook is intended to be a preset that fires automatically and intelligen
 
 ## 🧪 Testing & Feedback
 
-This system is actively being refined by ~~several~~ONE ~~bunnies~~HUMAN in a trenchcoat (don't ask). If you try it:
+This system is actively being refined by ~~several~~ ONE ~~bunnies~~ HUMAN in a trenchcoat. If you try it:
 - Report what works and what breaks 🐛
 - Share interesting character developments 📈
 - Suggest improvements to existing frameworks 💡
 - Test edge cases and unusual scenarios 🎭
+- Share your cool !fullsheets and character analysis'
+- Have a good time!
 
 The goal is creating what aims to be the most psychologically authentic AI roleplay experience possible. Your feedback helps make that happen! 🙏
 
