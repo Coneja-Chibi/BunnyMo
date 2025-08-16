@@ -92,7 +92,7 @@ This project is *definitely* made by a single, normal human developer and not fi
 
 -# *All inquiries about the nature of our existence should be directed to /dev/null. 🐰🧥✨*
 
-Also, NemoVonNirgend, amazing creator of the Vex preset (and great friend) helps us make and refine this! He also inspired me to create this. Give him a round of pa-... Hands...
+Also, NemoVonNirgend, amazing creator of the Vex preset (and great friend) helps ~~us~~ me make and refine this! He also inspired me to create this. Give him a round of pa-... Hands...
 
 *We are absolutely not bunnies. Please do not bring lettuce to any meetups.*
 
