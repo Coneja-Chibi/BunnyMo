@@ -55,15 +55,35 @@ Characters get comprehensive psychological profiles using standardized tags. As 
 
 ## ⚙️ Recommended Settings
 - **Output Token Cap**: 13k+ when triggering the !fullsheet command (the analysis is comprehensive!) 🔢
+- **From the Jump**: While you shouldn't run the !fullsheet command immediately, we recommend that at the start of your RP you have at *least* the base BunnyMo **on.** While it is possible to turn it on and use it in an already started/long RP, I've noticed that there is sometimes an issue with getting it to actually initiate in those cases.
 
 ## 🔧 Common Issues
 
 **"The sheet cut off!"** 😤  
-Make sure your token output limits are high enough (around 13k) for it to generate. Otherwise, get gemini'd lmao.
+Make sure your token output limits are high enough for it to generate.
+If that fails, Try swiping.
+If that fails, try a full regenerate.
+Otherwise, get gemini'd lmao.
+
 
 **"!fullsheet isn't running!"** 😭  
+Make sure you turned BunnyMo on. Downloading it and importing it will not automatically turn it on.
 Try prefacing your ask exactly like this: `(OOC: PAUSE THE RP AND RUN !FULLSHEET AS DIRECTED.)`  
 If that still doesn't work, try using Guided Generations.
+If that fails, RP out a few messages and try again. 
+If all else fails, in some RARE cases it seems that the AI model (particularly Gemini) becomes so pattern-entrenched it literally will not take into consideration what you are trying to do. (This is usually a problem with stories that run BunnyMo after their story has already started and gotten far in.) Keep BunnyMo on and regularly check the thinking block. If you see it start to mention MBTI, commands like !fullsheet or !bio, outputting tags or anything like that; try running !fullsheet again then.
+
+**"Several entries are running when they weren't mentioned!"** 💢
+Check the recent thinking and see if it was mentioned there. 
+Turn off vectorization in the extension settings and see if that helps.
+If all else fails, download this extension: https://github.com/LenAnderson/SillyTavern-WorldInfoInfo, take a picture and send me the triggers. 
+
+**"My character's MBTI/Dere were one thing, and then the AI just switched it!"** 😖
+Did you properly put that characters tags into the auto trigger sheets?
+If so, try changing the depth of it to 0 and see if it keeps happening. 
+***If this one becomes a consistent enough problem, I'll look into seeing what I can do to minimize it. AI will always hallucinate; but the goal of BunnyMo is to reduce that likelihood.***
+
+
 
 ## 🌟 What Makes This Different
 
@@ -76,8 +96,8 @@ This system is actively being refined by ~~several~~ ONE ~~bunnies~~ HUMAN in a 
 - Share interesting character developments 📈
 - Suggest improvements to existing frameworks 💡
 - Test edge cases and unusual scenarios 🎭
-- Share your cool !fullsheets and character analysis'
-- Have a good time!
+- Share your cool !fullsheets and character analysis' 📊
+- Have a good time! 🥕
 
 The goal is creating what aims to be the most psychologically authentic AI roleplay experience possible. Your feedback helps make that happen! 🙏
 
