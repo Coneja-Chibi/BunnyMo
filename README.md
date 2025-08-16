@@ -81,15 +81,19 @@ The goal is creating what aims to be the most psychologically authentic AI rolep
 
 ## 🎉 Special Thanks
 
-**MASSIVE SHOUTOUT TO NEMO** 🌟🎊  
+**MASSIVE SHOUTOUT TO MY TESTERS** 🌟🎊  
 For helping make this dream a reality! Couldn't have done it without you! 💝🐰
 
 ---
 
 ## 🥕 About the Development Team
 
-This project is *definitely* made by a single, normal human developer and not three bunnies stacked in a trenchcoat pretending to understand code. Any reports of mysterious carrot crumbs in the documentation or inexplicably cute variable names are purely coincidental. The development team asks that you do not look behind the curtain, especially if you hear suspicious munching sounds. 
+This project is *definitely* made by a single, normal human developer and not five bunnies stacked in a trenchcoat pretending to understand code. Any reports of mysterious carrot crumbs in the documentation or inexplicably cute variable names are purely coincidental. The development team asks that you do not look behind the curtain, especially if you hear suspicious munching sounds. 
 
-All inquiries about the nature of our existence should be directed to /dev/null. 🐰🧥✨
+-# *All inquiries about the nature of our existence should be directed to /dev/null. 🐰🧥✨*
+
+Also, NemoVonNirgend, amazing creator of the Vex preset (and great friend) helps us make and refine this! He also inspired me to create this. Give him a round of pa-... Hands...
 
 *We are absolutely not bunnies. Please do not bring lettuce to any meetups.*
+
+Thanks for reading!
