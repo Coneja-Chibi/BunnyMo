@@ -56,6 +56,8 @@ Characters get comprehensive psychological profiles using standardized tags. As 
 ## ⚙️ Recommended Settings
 - **Output Token Cap**: 13k+ when triggering the !fullsheet command (the analysis is comprehensive!) 🔢
 - **From the Jump**: While you shouldn't run the !fullsheet command immediately, we recommend that at the start of your RP you have at *least* the base BunnyMo **on.** While it is possible to turn it on and use it in an already started/long RP, I've noticed that there is sometimes an issue with getting it to actually initiate in those cases.
+  <img width="514" height="351" alt="{086DC638-2069-488F-BA0D-D89E7A1B070E}" src="https://github.com/user-attachments/assets/bc30ad19-77f8-4ae2-9c53-58c3fbce0360" />
+
 
 ## 🔧 Common Issues
 
