@@ -2,7 +2,7 @@
 The Repository for the SillyTavern thinking engine!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🥕✨ Bunnymo: Advanced AI Roleplay Framework ✨🥕
+# 🥕✨Bunnymo: Advanced AI Roleplay Framework✨🥕
 
 **Status: Work in Progress 🛠️ | Testing Welcome** 🧪
 
