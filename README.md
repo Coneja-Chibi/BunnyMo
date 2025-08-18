@@ -72,13 +72,15 @@ If that fails, Try swiping.
 If that fails, try a full regenerate.
 Otherwise, get gemini'd lmao.
 
-
 **"!fullsheet isn't running!"** 😭  
 Make sure you turned BunnyMo on. Downloading it and importing it will not automatically turn it on.
 Try prefacing your ask exactly like this: `(OOC: PAUSE THE RP AND RUN !FULLSHEET AS DIRECTED.)`  
 If that still doesn't work, try using Guided Generations.
 If that fails, RP out a few messages and try again. 
 If all else fails, in some RARE cases it seems that the AI model (particularly Gemini) becomes so pattern-entrenched it literally will not take into consideration what you are trying to do. (This is usually a problem with stories that run BunnyMo after their story has already started and gotten far in.) Keep BunnyMo on and regularly check the thinking block. If you see it start to mention MBTI, commands like !fullsheet or !bio, outputting tags or anything like that; try running !fullsheet again then.
+
+"I don't see any tags in the output!" 🏷️
+The tags are there, but SillyTavern has the "view tags" setting turned off by default. If you see a section where tags should be but it's blank, just edit the message and you'll see them!
 
 **"Several entries are running when they weren't mentioned!"** 💢
 Check the recent thinking and see if it was mentioned there. 
