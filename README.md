@@ -28,7 +28,7 @@ We've been busy little bunnies releasing themed content:
 These packs help break the AI out of its boring default thinking patterns! 🌈✨ Instead of falling back on the same tired references, it gets weird new frames to work with - making it read between the lines and draw fresh comparisons to gaming mechanics, magazine quizzes, and card collections.
 
 *More releases coming soon!* 📦
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🏷️ Advanced Tagging System
 Characters get comprehensive psychological profiles using standardized tags. As of right now only some tags have working repositories, but as BunnyMo is a massive project, more are being worked on every day! 
 
@@ -62,7 +62,7 @@ Characters get comprehensive psychological profiles using standardized tags. As 
 
 
   <img width="514" height="351" alt="{086DC638-2069-488F-BA0D-D89E7A1B070E}" src="https://github.com/user-attachments/assets/bc30ad19-77f8-4ae2-9c53-58c3fbce0360" />
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔧 Common Issues
 
@@ -96,13 +96,12 @@ If all else fails, download this extension: https://github.com/LenAnderson/Silly
 <img width="350" height="350" alt="{8FA2B5C7-349B-400F-8529-B31D4569F256}" src="https://github.com/user-attachments/assets/4a508343-a709-4fdf-9bbb-0339d7db5e63" />
 
 
-
-**"My character's MBTI/Dere were one thing, and then the AI just switched it!"** 😖
+### "My character's MBTI/Dere were one thing, and then the AI just switched it!" 😖
 Did you properly put that characters tags into the auto trigger sheets?
 If so, try changing the depth of it to 0 and see if it keeps happening. 
 ***If this one becomes a consistent enough problem, I'll look into seeing what I can do to minimize it. AI will always hallucinate; but the goal of BunnyMo is to reduce that likelihood.***
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌟 What Makes This Different
 
