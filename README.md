@@ -1,6 +1,6 @@
 # BunnyMo
 The Repository for the SillyTavern thinking engine!
-
+# CURRENT NEWS: CHECK OUT CARROT KERNEL FOR EVEN MORE BUNNYMO GREATNESS! https://github.com/Coneja-Chibi/CarrotKernel
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🥕✨Bunnymo: Advanced AI Roleplay Framework✨🥕
 
