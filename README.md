@@ -1,8 +1,6 @@
 # BunnyMo
-![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-orange.svg) [![SillyTavern Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/) [![BunnymoTags Compatible](https://img.shields.io/badge/BunnymoTags-Compatible-purple.svg)]
-  
-  [![Character
-  Data](https://img.shields.io/badge/Content-Character%20Data-pink.svg)](https://github.com/your-repo/BunnyMoPack)
+![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-orange.svg) [![SillyTavern Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/) [![BunnymoTags Compatible](https://img.shields.io/badge/BunnymoTags-Compatible-purple.svg)] [![Character Data](https://img.shields.io/badge/Content-Character%20Data-pink.svg)](https://github.com/your-repo/BunnyMoPack)
+
 The Repository for the SillyTavern thinking engine!
 # CURRENT NEWS: CHECK OUT CARROT KERNEL FOR EVEN MORE BUNNYMO GREATNESS! https://github.com/Coneja-Chibi/CarrotKernel
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
