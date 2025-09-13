@@ -1,10 +1,12 @@
 # BunnyMo
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-orange.svg)](https://githu
   b.com/your-repo/BunnyMoPack)
+  
   [![SillyTavern
   Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/)
   [![BunnymoTags Compatible](https://img.shields.io/badge/BunnymoTags-Compatible-purple.svg)](https://github.com/Con
   eja-Chibi/BunnyMo)
+  
   [![Character
   Data](https://img.shields.io/badge/Content-Character%20Data-pink.svg)](https://github.com/your-repo/BunnyMoPack)
 The Repository for the SillyTavern thinking engine!
