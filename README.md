@@ -101,7 +101,7 @@ If all else fails, download this extension: https://github.com/LenAnderson/Silly
 ### "My character's MBTI/Dere were one thing, and then the AI just switched it!" 😖
 Did you properly put that characters tags into the auto trigger sheets?
 If so, try changing the depth of it to 0 and see if it keeps happening. 
-***If this one becomes a consistent enough problem, I'll look into seeing what I can do to minimize it. AI will always hallucinate; but the goal of BunnyMo is to reduce that likelihood.***
+***If this one becomes a consistent enough problem, I'll look into seeing what I can do to minimize it. AI will always hallucinate; but the goal of BunnyMo is to reduce that likelihood. This issue has been DEPRECIATED if you use BunnyMo in tandem with it's extension, Carrot Kernel***
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
