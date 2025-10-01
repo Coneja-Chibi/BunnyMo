@@ -67,7 +67,7 @@ Characters get comprehensive psychological profiles using standardized tags. As 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔧 Common Issues
-
+***Please note, using Carrot Kernel essentially removes all these problems from the playing field.***
 ### "The sheet cut off!" 😤  
 
 Make sure your token output limits are high enough for it to generate.
@@ -93,7 +93,7 @@ The tags are there, but SillyTavern has the "view tags" setting turned off by de
 
 Check the recent thinking and see if it was mentioned there. 
 Turn off vectorization in the extension settings and see if that helps.
-If all else fails, download this extension: https://github.com/LenAnderson/SillyTavern-WorldInfoInfo, take a picture, then send me the triggers AND the full transcript (thinking included) of your last two messages. 
+If all else fails, download this extension: https://github.com/Coneja-Chibi/CarrotKernel, take a picture, then send me the triggers AND the full transcript (thinking included) of your last two messages. 
 
 <img width="350" height="350" alt="{8FA2B5C7-349B-400F-8529-B31D4569F256}" src="https://github.com/user-attachments/assets/4a508343-a709-4fdf-9bbb-0339d7db5e63" />
 
