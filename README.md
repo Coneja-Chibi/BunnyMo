@@ -4,6 +4,7 @@
 The Repository for the SillyTavern thinking engine!
 ### CURRENT NEWS: GENRE RELEASE, LENS RELEASE, 2.9 UPDATE, DERE UPDATE, COT ADDITIONS, LING UPDATE!
 Companion Extension Lives Here: https://github.com/Coneja-Chibi/CarrotKernel
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🥕✨Bunnymo: Advanced AI Roleplay Framework✨🥕
 
