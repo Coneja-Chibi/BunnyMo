@@ -2,7 +2,8 @@
 ![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-pink.svg) ![CarrotKernel Compatible](https://img.shields.io/badge/CarrotKernel-Compatible-orange.svg)  [![SillyTavern Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/)
 
 The Repository for the SillyTavern thinking engine!
-### CURRENT NEWS: CHECK OUT CARROT KERNEL FOR EVEN MORE BUNNYMO GREATNESS! https://github.com/Coneja-Chibi/CarrotKernel
+### CURRENT NEWS: GENRE RELEASE, LENS RELEASE, 2.9 UPDATE, DERE UPDATE, COT ADDITIONS, LING UPDATE!
+Companion Extension Lives Here: https://github.com/Coneja-Chibi/CarrotKernel
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🥕✨Bunnymo: Advanced AI Roleplay Framework✨🥕
 
