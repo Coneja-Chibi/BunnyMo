@@ -26,6 +26,9 @@ We've been busy little bunnies releasing themed content:
 - **🌸 Dere Pack**: We dropped a whole gaming pass loaded with romantic personality archetypes as playable characters
 - **🧩 MBTI Pack**: Released a personality magazine complete with quirky quizzes comparing types to snacks and weather
 - **👾 Species Pack**: Created an entire trading card game featuring 80+ fantasy species with full stat blocks
+- **🪪 Trait Pack**: A random pack of things us Bunny's find lying around! A kitchen sink grabbag of all sorts of cool traits
+- **🎭 Genre Pack:** We made a whole streaming service with all sorts of different categories and movies to choose from
+- **🪄 Lenses Pack:** We released whole new ways to see, feel, and experience all your worlds. Turn the ones you want on, then enjoy
 
 These packs help break the AI out of its boring default thinking patterns! 🌈✨ Instead of falling back on the same tired references, it gets weird new frames to work with - making it read between the lines and draw fresh comparisons to gaming mechanics, magazine quizzes, and card collections.
 
