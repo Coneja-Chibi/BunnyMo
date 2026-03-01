@@ -32,7 +32,7 @@ We've been busy little bunnies releasing themed content:
 - **🎭 Genre Pack:** We made a whole streaming service with all sorts of different categories and movies to choose from
 - **🪄 Lenses Pack:** We released whole new ways to see, feel, and experience all your worlds. Turn the ones you want on, then enjoy
 - **🧠 BSM-5:** The Bunny Statistical Manual. 39 mental health conditions written as clinical evaluations — depression, bipolar, PTSD, OCD, BPD, dissociative disorders, and more. Tag a character and the AI stops guessing what "anxiety" looks like
-- **🔬 BSM-5 CoT Lenses:** 40 thinking lenses that rewire the AI's chain of thought per condition. Instead of just knowing a character has depression, the AI *thinks through* depression — asking itself the right questions every turn
+- **🔬 BSM-5 CoT Lenses:** 40 thinking lenses that rewire the AI's chain of thought per condition. Instead of just knowing a character has depression, the AI *thinks through* depression — asking itself the right questions every turn (EXPERIMENTAL)🧪
 - **💊 BunnyRX:** 36 real medications with real effects, real side effects, real timelines. Xanax, Prozac, Adderall, lithium, methadone — the whole pharmacy. Tag a character's meds and the AI knows what day 3 of withdrawal looks like vs. day 30 of stable dosing
 - **🏥 HopSpital:** 33 physical conditions from wheelchair use to chronic pain to pregnancy to amputation. Full mobility aids, sensory disabilities, chronic illness, terminal conditions. The body is not decorative — it has rules and the AI follows them now
 
@@ -148,3 +148,4 @@ Also, NemoVonNirgend, amazing creator of the Vex preset (and great friend) helps
 *We are absolutely not bunnies. Please do not bring lettuce to any meetups.*
 
 Thanks for reading!
+
