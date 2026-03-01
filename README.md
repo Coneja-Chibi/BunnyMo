@@ -1,8 +1,8 @@
 # BunnyMo
-![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-pink.svg) ![CarrotKernel Compatible](https://img.shields.io/badge/CarrotKernel-Compatible-orange.svg)  [![SillyTavern Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/)
+![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-pink.svg) ![CarrotKernel Compatible](https://img.shields.io/badge/CarrotKernel-Compatible-orange.svg)  [![SillyTavern Lorebook](https://img.shields.io/badge/SillyTavern-Lorebook-green.svg)](https://docs.sillytavern.app/) [![RoleCall Compatible](https://img.shields.io/badge/RoleCall-Compatible-blueviolet.svg)](https://rolecallstudios.com)
 
-The Repository for the SillyTavern thinking engine!
-### CURRENT NEWS: GENRE RELEASE, LENS RELEASE, 2.9 UPDATE, DERE UPDATE, COT ADDITIONS, LING UPDATE!
+The Repository for the SillyTavern + [RoleCall](https://rolecallstudios.com) thinking engine!
+### CURRENT NEWS: 🏥 BSM-5 + BUNNYRX + HOPSPITAL DROP! V3.0 UPDATE! MEDICAL PACKS ARE HERE!
 Companion Extension Lives Here: https://github.com/Coneja-Chibi/CarrotKernel
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,8 +31,12 @@ We've been busy little bunnies releasing themed content:
 - **🪪 Trait Pack**: A random pack of things us Bunny's find lying around! A kitchen sink grabbag of all sorts of cool traits
 - **🎭 Genre Pack:** We made a whole streaming service with all sorts of different categories and movies to choose from
 - **🪄 Lenses Pack:** We released whole new ways to see, feel, and experience all your worlds. Turn the ones you want on, then enjoy
+- **🧠 BSM-5:** The Bunny Statistical Manual. 39 mental health conditions written as clinical evaluations — depression, bipolar, PTSD, OCD, BPD, dissociative disorders, and more. Tag a character and the AI stops guessing what "anxiety" looks like
+- **🔬 BSM-5 CoT Lenses:** 40 thinking lenses that rewire the AI's chain of thought per condition. Instead of just knowing a character has depression, the AI *thinks through* depression — asking itself the right questions every turn
+- **💊 BunnyRX:** 36 real medications with real effects, real side effects, real timelines. Xanax, Prozac, Adderall, lithium, methadone — the whole pharmacy. Tag a character's meds and the AI knows what day 3 of withdrawal looks like vs. day 30 of stable dosing
+- **🏥 HopSpital:** 33 physical conditions from wheelchair use to chronic pain to pregnancy to amputation. Full mobility aids, sensory disabilities, chronic illness, terminal conditions. The body is not decorative — it has rules and the AI follows them now
 
-These packs help break the AI out of its boring default thinking patterns! 🌈✨ Instead of falling back on the same tired references, it gets weird new frames to work with - making it read between the lines and draw fresh comparisons to gaming mechanics, magazine quizzes, and card collections.
+These packs help break the AI out of its boring default thinking patterns! 🌈✨ Instead of falling back on the same tired references, it gets weird new frames to work with — making it read between the lines and draw fresh comparisons to gaming mechanics, magazine quizzes, card collections, and now clinical reality.
 
 *More releases coming soon!* 📦
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
